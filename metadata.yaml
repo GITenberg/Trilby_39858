@@ -1,0 +1,63 @@
+_repo: Trilby_39858
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39858-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Du Maurier, George
+    aliases:
+    - Maurier, George Du
+    - Du Maurier, George Louis Palmella Busson
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '4661'
+    url: http://www.gutenberg.org/2009/agents/4661
+    wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+description: "Trilby is a novel by George du Maurier and one of the most popular novels\
+  \ of its time. Published serially in Harper's Monthly in 1894, it was published\
+  \ in book form in 1895 and sold 200,000 copies in the United States alone. Trilby\
+  \ is set in the 1850s in an idyllic bohemian Paris. Though it features the stories\
+  \ of two English artists and a Scottish artist, one of the most memorable characters\
+  \ is Svengali, a rogue, masterful musician and hypnotist.\nTrilby O'Ferrall, the\
+  \ novel's heroine, is a half-Irish girl working in Paris as an artists' model and\
+  \ laundress; all the men in the novel are in love with her. The relationship between\
+  \ Trilby and Svengali forms only a small, though crucial, portion of the novel,\
+  \ which is mainly an evocation of a milieu.\nLuc Sante wrote that the novel had\
+  \ a \"decisive influence on the stereotypical notion of bohemia\" and that it \"\
+  affected the habits of American youth, particularly young women, who derived from\
+  \ it the courage to call themselves artists and 'bachelor girls,' to smoke cigarettes\
+  \ and drink Chianti.\"\nThe novel has been adapted to the stage several times; one\
+  \ of these featured the lead actress wearing a distinctive short-brimmed hat with\
+  \ a sharp snap to the back of the brim. The hat became known as the trilby and went\
+  \ on to become a popular men's clothing item in the United Kingdom throughout various\
+  \ parts of the 20th century, before enjoying a revival as a unisex clothing item\
+  \ in the United States in the 2000s.\nThe novel has been highly criticised for antisemitism\
+  \ in its portrayal of the character Svengali.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2012-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39858'
+  wikidata: Q1691967
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PR'
+- !lcsh 'Women singers -- Fiction'
+- !lcsh 'Hypnotists -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Musical fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Artists'' models -- Fiction'
+title: Trilby
+url: http://www.gutenberg.org/ebooks/39858
+wikipedia:
+- https://fr.wikipedia.org/wiki/Trilby_(roman)
+- https://de.wikipedia.org/wiki/Trilby_(Roman)
+- https://en.wikipedia.org/wiki/Trilby_(novel)
+- https://sv.wikipedia.org/wiki/Trilby
